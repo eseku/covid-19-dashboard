@@ -35,7 +35,7 @@
     "graphql": "^15.0.0",
     "graphql-anywhere": "^4.2.6",
     "graphql-tag": "^2.10.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "numeral": "^2.0.6",
     "qs": "^6.9.3",
     "react": "~16.9.0",
